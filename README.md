@@ -8,15 +8,15 @@ I build software across distributed systems, financial technology, and intellige
 
 ### SELECTED WORK
 
-**01 / [ARGUS — SMU × UBS](https://github.com/garrikyx/avengers-fyp-is484)**
+**01 / [SMU × UBS](https://github.com/garrikyx/avengers-fyp-is484)**
 
-Telemetry and real-time alerting system for trading infrastructure, developed as an industry capstone using synthetic data. Contributed to metrics aggregation, rule evaluation, snapshot delivery, anomaly detection, and automated testing.
+Capstone project on finance trading infrastructure telemetry and real-time alerting system using synthetic data. Contributed to rule engine, snapshot data delivery, anomaly detection, metric aggregation, and test automation.
 
 [Selected contribution: Snapshot Emitter](https://github.com/garrikyx/avengers-fyp-is484/pull/37)
 
 **02 / [NODAL](https://github.com/ryanhung919/nodal)**
 
-Full-stack task management platform with role-based access control, real-time collaboration, and reporting.
+Full-stack task management platform with role-based access control, cross-department tracking, and reporting dashboards.
 
 `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL`
 
@@ -24,14 +24,14 @@ Full-stack task management platform with role-based access control, real-time co
 
 **03 / [OMNIS](https://ryanhung.app)**
 
-My personal portfolio — an exploration of creative engineering, interactive motion, and design-led web experiences.
+My personal interactive portfolio on my past and current projects. A craftful experience of thoughtful engineering and interactive motion.
 
 [Explore portfolio](https://ryanhung.app)
 
 ---
 
 **EXPERIENCE**  
-Temasek — Core Technology · PwC — Data Science
+Temasek - Core Technology · PwC — Data Science
 
 **CORE TECHNOLOGIES**  
 Python · TypeScript · React · Next.js · FastAPI · PostgreSQL · Docker
