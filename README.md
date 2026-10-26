@@ -38,6 +38,6 @@ My personal interactive portfolio on my past and current projects. A craftful ex
 Temasek - Core Technology · PwC — Data Science
 
 **CORE TECHNOLOGIES**  
-Python · TypeScript · React · Next.js · FastAPI · PostgreSQL · Docker
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PostgreSQL`
 
 **[ryanhung.app](https://ryanhung.app)**
